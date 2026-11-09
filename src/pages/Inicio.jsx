@@ -10,7 +10,7 @@ import larissa from '../assets/depoimento-larissa.png'
 
 const STATS = [
   ['500 horas', 'Em conteúdo gratuito de qualidade.'],
-  ['+8 mil', 'Alunos matriculados em nossa plataforma.'],
+  ['+56 mil', 'Alunos matriculados em nossa plataforma.'],
   ['96% dos alunos', 'Recomendam nossa plataforma.'],
 ]
 
