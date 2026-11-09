@@ -26,7 +26,7 @@ const TEAM = [
   ['Marcinho', 'Relações Públicas', marcinho],
   ['Leandro Guimarães', 'Cursinho', leandro],
   ['Nathan Pinheiro', 'Além do Cursinho', nathan],
-  ['Lucas Martins', 'Relações Institucionais', lucas],
+  ['Lucas Martins', 'Financeiro e RI', lucas],
   ['Rodrigo Coelho', 'TI', rodrigo],
 ]
 
